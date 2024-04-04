@@ -16,15 +16,15 @@ global.bot_language = 'lus' // I language code dah tur code hman i hriat loh chu
 
 //info
 global.owner = ['+916909702339] // I phone number in thlak rawh
-global.ownernumber = '916909702339' // I phone number in thlak rawh
+global.ownernumber = '+916909702339' // I phone number in thlak rawh
 global.ownername = "꧁mjlin_chhangte♕꧂" // I hming dah tel bawk la
 global.location = "India, Mizoram, kawlkulh" // I awmna hmun daha
 global.botname = "mjlin_chhangte" // I bot hming tur dah la
 global.ownerweb = "https://youtube.com/@HBMods_Channel"
 global.themeemoji = '🤖'
-global.creator = "916909702339@s.whatsapp.net" // @ symbol hmaa number hi i phone number in thlak rawh
+global.creator = "+916909702339@s.whatsapp.net" // @ symbol hmaa number hi i phone number in thlak rawh
 
-global.ownerNumber = ["916909702339@s.whatsapp.net"]// @ symbol hmaa number hi i phone number in thlak rawh
+global.ownerNumber = ["+916909702339@s.whatsapp.net"]// @ symbol hmaa number hi i phone number in thlak rawh
 global.prefa = ['','!','.','#','/']
 global.sessionName = 'session'
 
